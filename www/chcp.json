@@ -3,6 +3,6 @@
   "ios_identifier": "com.test",
   "android_identifier": "com.test",
   "update": "now",
-  "content_url": "https://github.com/XJH0415/cordovaHot/raw/master/www/",
-  "release": "2018.11.28-18.17.07"
+  "content_url": "https://raw.githubusercontent.com/XJH0415/cordovaHot/master/www/",
+  "release": "2018.11.28-18.51.49"
 }
