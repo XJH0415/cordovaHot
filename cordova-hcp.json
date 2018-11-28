@@ -1,0 +1,7 @@
+{
+  "name": "cordovaHot",
+  "ios_identifier": "com.test",
+  "android_identifier": "com.test",
+  "update": "now",
+  "content_url": "https://github.com/XJH0415/cordovaHot/raw/master/www/"
+}
